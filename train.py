@@ -11,7 +11,7 @@ from model.contrast import ContrastModel
 import utils
 
 """
-Code Reference (HGCLR): https://github.com/wzh9969/contrastive-htc
+Code Reference (HGCLR): https://github.com/wzh9969/contrastive-htc.
 """
 
 class BertDataset(Dataset):
